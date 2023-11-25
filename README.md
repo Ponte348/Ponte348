@@ -1,5 +1,8 @@
-### Hello there 👋
+# Hello there 👋
+## About me
 Currently taking a Software Engineering degree in the University of Aveiro.
+
+
 
 ### Skills 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,6 +17,9 @@ Currently taking a Software Engineering degree in the University of Aveiro.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+
+#### Listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=silvekmlg&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=ed333b&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=silvekmlg&redirect=true)
 
 <!--
 **Ponte348/Ponte348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
