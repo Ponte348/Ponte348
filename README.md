@@ -1,5 +1,5 @@
 # Hello there 👋
-## About me
+## About me 🚀
 Currently taking a Software Engineering degree in the University of Aveiro.
 
 
