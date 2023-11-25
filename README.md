@@ -12,9 +12,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
-
-
-
 <!--
 **Ponte348/Ponte348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
