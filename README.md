@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 Currently taking a Software Engineering degree in the University of Aveiro.
 
-### Skills 
+### Skills 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-3FABD14?style=for-the-badge&logo=c&logoColor=grey)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
