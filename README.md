@@ -1,8 +1,6 @@
 # Hello there 👋
 ## About me 🚀
-Currently taking a Software Engineering degree in the University of Aveiro.
-
-
+Currently taking a Software Engineering degree at [Universidade de Aveiro](https://www.ua.pt/pt/curso/383).  
 
 ### Skills 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
