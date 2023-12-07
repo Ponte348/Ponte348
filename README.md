@@ -1,7 +1,7 @@
 # Hello there 👋
 ## About me 🚀
 Currently taking a Software Engineering degree at [Universidade de Aveiro](https://www.ua.pt/pt/curso/383).  
-Python Enjoyer.  
+Python and databases (relational, document, graph) enjoyer.  
 
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ponte348&theme=tokyonight)
