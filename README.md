@@ -1,6 +1,10 @@
 # Hello there 👋
 ## About me 🚀
 Currently taking a Software Engineering degree at [Universidade de Aveiro](https://www.ua.pt/pt/curso/383).  
+Python Enjoyer.  
+
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ponte348&theme=tokyonight)
 
 ### Skills 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,6 +19,7 @@ Currently taking a Software Engineering degree at [Universidade de Aveiro](https
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+-->
 
 #### Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=silvekmlg&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=ed333b&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=silvekmlg&redirect=true)
