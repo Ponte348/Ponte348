@@ -4,7 +4,9 @@ Currently taking a Software Engineering degree at [Universidade de Aveiro](https
 Python and databases (relational, document, graph) enjoyer.  
 Sports, music, games and cats.
 
-<!-- 
+<!-- Stats is cool but it only shows public repos and I mostly work on my private stuff 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ponte348&show_icons=true&locale=en&theme=blue-green" alt="ponte348" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ponte348&theme=tokyonight)
 
 ### Skills 🛠️
