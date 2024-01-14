@@ -1,7 +1,7 @@
 # Hello there 👋
 <!-- ## About me 🚀-->
 Currently taking a Software Engineering degree at [Universidade de Aveiro](https://www.ua.pt/pt/curso/383).  
-Python and databases (relational, document, graph) enjoyer.  
+Python enjoyer.  
 Sports, music, games and cats.  
 Forever DM. :game_die::dragon:
 
