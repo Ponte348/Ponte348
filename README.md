@@ -3,7 +3,7 @@
 Currently taking a Software Engineering degree at [Universidade de Aveiro](https://www.ua.pt/pt/curso/383).  
 Python enjoyer.  
 Sports, music, games and cats.  
-Forever DM. :game_die::dragon:
+Forever DM. :game_die:
 
 <!-- Stats is cool but it only shows public repos and I mostly work on my private stuff 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ponte348&show_icons=true&locale=en&theme=blue-green" alt="ponte348" /></p>
