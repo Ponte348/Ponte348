@@ -5,10 +5,7 @@ Python enjoyer.
 Sports, music, games and cats.  
 Forever DM. :game_die:
 
-<!-- Stats is cool but it only shows public repos and I mostly work on my private stuff 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ponte348&show_icons=true&locale=en&theme=blue-green" alt="ponte348" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ponte348&theme=tokyonight)
+<!--
 
 ### Skills 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,10 +26,8 @@ Forever DM. :game_die:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=silvekmlg&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=ed333b&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=silvekmlg&redirect=true)
 
 <!--
-**Ponte348/Ponte348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
