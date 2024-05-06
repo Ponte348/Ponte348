@@ -1,4 +1,4 @@
-# Hello there 👋
+<!-- # Hello there 👋 -->
 <!-- ## About me 🚀-->
 Currently taking a Software Engineering degree at [Universidade de Aveiro](https://www.ua.pt/pt/curso/383).  
 Python enjoyer.  
