@@ -24,6 +24,8 @@ Sports, music, games and cats.
 #### Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=silvekmlg&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=ed333b&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=silvekmlg&redirect=true)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=silvekmlg&cover_image=false&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=silvekmlg&redirect=true)
+
 <!--
 
 Here are some ideas to get you started:
