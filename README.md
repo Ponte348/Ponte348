@@ -22,7 +22,7 @@ Sports, music, games and cats.
 -->
 
 #### Listening to
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=silvekmlg&cover_image=false&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=silvekmlg&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=silvekmlg&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=silvekmlg&redirect=true)
 
 <!--
 
