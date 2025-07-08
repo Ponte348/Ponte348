@@ -1,8 +1,9 @@
 <!-- # Hello there 👋 -->
 <!-- ## About me 🚀-->
-Currently taking a Software Engineering degree at [Universidade de Aveiro](https://www.ua.pt/pt/curso/383).  
-Backend and devops.  
+Software Engineering graduate from [Universidade de Aveiro](https://www.ua.pt/pt/curso/383).  
+My main interests are backend, devops and QA.  
 Sports, music, games and cats.  
+
 
 <!--
 
