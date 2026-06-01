@@ -2,7 +2,7 @@
 <!-- ## About me 🚀-->
 Backend developer @Altice Labs  
 Bsc in Software Engineering @[Universidade de Aveiro](https://www.ua.pt/pt/curso/383).  
-My main interests are backend, devops and QA.  
+My main interests are backend, devops and AI.  
 Sports, music, games and cats.  
 
 Contact me:  
